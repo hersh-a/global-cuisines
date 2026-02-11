@@ -117,5 +117,5 @@ Ion Auth was integrated for authentication and authorization.
 
 ## 👩‍💻 Author
 Developed by Hershey Agustin 
-Global Cuisine MVC Project  
-CodeIgniter + Ion Auth Implementation
+- Global Cuisine MVC Project  
+- CodeIgniter + Ion Auth Implementation
