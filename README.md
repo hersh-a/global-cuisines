@@ -114,8 +114,3 @@ Ion Auth was integrated for authentication and authorization.
   - Write Article option
 
 ---
-
-## 👩‍💻 Author
-Developed by Hershey Agustin 
-- Global Cuisine MVC Project  
-- CodeIgniter + Ion Auth Implementation
